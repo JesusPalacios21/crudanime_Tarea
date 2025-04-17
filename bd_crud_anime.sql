@@ -14,5 +14,3 @@ CREATE TABLE animes(
 
 INSERT INTO animes (titulo, genero, episodios, creador, fecha_estreno, calificacion) VALUES 
 	('Charlotte', 'Comedia dramática, sobrenatural', 13, 'Jun Maeda', '2015-07-04', 10);    
-SELECT * FROM animes;
-DROP DATABASE crudanime;
